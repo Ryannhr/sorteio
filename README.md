@@ -8,7 +8,7 @@ O sistema foi desenvolvido para realizar sorteios de brindes entre colaboradores
 A aplicação permite cadastrar prêmios e colaboradores (vinculados a filiais). Além disso, possui um modo de apresentação que exibe, de forma sequencial, as filiais e seus respectivos colaboradores.
 
 ## Layout web
-![Web 1](https://github.com/acenelio/assets/raw/main/sds1/web1.png)
+![Web 1](https://github.com/Ryannhr/sorteio/blob/main/Captura%20de%20tela%202025-11-28%20104601.png)
 
 ## Funcionalidades
 Cadastro de Prêmios: Permite cadastrar prêmios com uma ordem de sorteio
